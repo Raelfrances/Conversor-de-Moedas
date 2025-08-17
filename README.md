@@ -3,6 +3,8 @@
 Este projeto é uma API REST simples para conversão de moedas usando a [ExchangeRate API](https://www.exchangerate-api.com/), desenvolvida com Spring Boot.
 
 # 📁 Estrutura do Projeto
+``` plaintext
+
 currency-converter/
 ├── src/
 │   └── main/
@@ -20,3 +22,4 @@ currency-converter/
 ├── .gitignore
 ├── README.md
 └── pom.xml
+``` 
